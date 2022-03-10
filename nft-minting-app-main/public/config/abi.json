@@ -1,6 +1,6 @@
 [
 	{
-		"anonymous": false,
+		"anonymous": true,
 		"inputs": [
 			{
 				"indexed": true,
