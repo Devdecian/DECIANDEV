@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6c49Fe81309255B358dea935f2DB43BaCc3B59A0",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x6c49fe81309255b358dea935f2db43bacc3b59a0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "DEVDECIAN",
+  "SYMBOL": "DCNDEV",
+  "MAX_SUPPLY": 160,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/devdecian",
+  "SHOW_BACKGROUND": true
+}
